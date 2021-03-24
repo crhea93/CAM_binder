@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="27">
+            <item index="0" class="java.lang.String" itemvalue="django-recaptcha" />
+            <item index="1" class="java.lang.String" itemvalue="django-heroku" />
+            <item index="2" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="4" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="5" class="java.lang.String" itemvalue="flake8-bugbear" />
+            <item index="6" class="java.lang.String" itemvalue="flake8-print" />
+            <item index="7" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="8" class="java.lang.String" itemvalue="opencv-python-headless" />
+            <item index="9" class="java.lang.String" itemvalue="django-toolbox" />
+            <item index="10" class="java.lang.String" itemvalue="django-widget-tweaks" />
+            <item index="11" class="java.lang.String" itemvalue="certifi" />
+            <item index="12" class="java.lang.String" itemvalue="WeasyPrint" />
+            <item index="13" class="java.lang.String" itemvalue="coverage" />
+            <item index="14" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="15" class="java.lang.String" itemvalue="pytest" />
+            <item index="16" class="java.lang.String" itemvalue="django-import-export" />
+            <item index="17" class="java.lang.String" itemvalue="pdfkit" />
+            <item index="18" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="19" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="20" class="java.lang.String" itemvalue="imgkit" />
+            <item index="21" class="java.lang.String" itemvalue="random-username" />
+            <item index="22" class="java.lang.String" itemvalue="django-fileprovider" />
+            <item index="23" class="java.lang.String" itemvalue="django-mysql" />
+            <item index="24" class="java.lang.String" itemvalue="Django" />
+            <item index="25" class="java.lang.String" itemvalue="django-secure" />
+            <item index="26" class="java.lang.String" itemvalue="py" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
